@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm VampireR 👋
+# VampireR
 
 **Full Stack Developer | Code Vibe Enthusiast | Live on Twitch 🎮**
 
@@ -17,16 +17,14 @@
 ```typescript
 const developer = {
     name: "VampireR",
-    location: "Mumbai, India 🇮🇳",
     role: "Full Stack Developer",
-    previousGig: "Frontend @ Blackhole Infiverse",
     
     dailyDrivers: ["React", "TypeScript", "Node.js"],
     currentlyVibing: ["Backend Architecture", "AI Integration", "Code Streaming"],
     
     // When I'm not coding
     offline: () => {
-        return ["Gaming", "Twitch Streaming", "Anime"];
+        return ["Gaming", "Streaming", "Sleeping"];
     },
     
     // Philosophy
@@ -56,7 +54,7 @@ Three.js • React Three Fiber (R3F) • GSAP
 
 **Backend**
 ```
-Node.js • Express.js • MongoDB • SQL • RESTful APIs
+Node.js • Express.js • MongoDB • RESTful APIs
 ```
 
 **Cloud & Tools**
@@ -66,7 +64,7 @@ Supabase • Firebase • Git/GitHub • Postman • VS Code
 
 **Currently Exploring**
 ```
-System Design • Backend Architecture • AI Integration • Python
+System Design • Backend Architecture • AI Integration
 ```
 
 ---
