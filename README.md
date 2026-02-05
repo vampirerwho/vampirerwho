@@ -2,7 +2,7 @@
 
 # VampireR
 
-### Full Stack Developer • Building Cool Stuff for the Web and sometimes for the Apps
+### Full Stack Developer • Building cool stuff for the web, occasionally for mobile
 
 [![GitHub followers](https://img.shields.io/github/followers/vampirerwho?style=flat-square&logo=github&label=Followers)](https://github.com/vampirerwho)
 [![Profile Views](https://komarev.com/ghpvc/?username=vampirerwho&color=blueviolet&style=flat-square)](https://github.com/vampirerwho)
