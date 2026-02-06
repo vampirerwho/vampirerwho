@@ -151,7 +151,6 @@ const developer = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/vampirerwho)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brishabh1@gmail.com)
 
 </div>
 
