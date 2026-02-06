@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```typescript
 const developer = {
@@ -37,18 +37,18 @@ const developer = {
 
 ---
 
-## 💼 What I Do
+## What I Do
 
-- 🎯 Build **production-ready web applications** with React, Next.js, and TypeScript
-- ⚡ Create **performant APIs** using Node.js and Express
-- 🤖 Integrate **AI/LLM systems** into real-world applications
-- 🎨 Craft **interactive UI/UX** with modern frontend frameworks
-- 📊 Work with **databases** (MongoDB, SQL) and cloud platforms (Supabase, Firebase)
-- 🔧 Write **clean, maintainable code** following best practices
+-  Build **production-ready web applications** with React, Next.js, and TypeScript
+-  Create **performant APIs** using Node.js and Express
+-  Integrate **AI/LLM systems** into real-world applications
+-  Craft **interactive UI/UX** with modern frontend frameworks
+-  Work with **databases** (MongoDB, Postgres) and cloud platforms (Supabase, Firebase)
+-  Write **clean, maintainable code** following best practices
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -81,48 +81,29 @@ const developer = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vampirerwho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampirerwho&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vampirerwho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=vampirerwho&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vampirerwho&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 [![VampireR's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vampirerwho&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/vampirerwho)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vampirerwho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/vampirerwho)
-
 </div>
 
 ---
-
-## 🎯 Featured Projects
-
-<!-- Dynamically shows your pinned repositories -->
-<div align="center">
-  <a href="https://github.com/vampirerwho?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vampirerwho&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/vampirerwho?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vampirerwho&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
 <div align="center">
   
@@ -132,7 +113,7 @@ const developer = {
 
 ---
 
-## 📺 Latest Streams & Content
+## Latest Streams & Content
 
 <!-- Twitch Video Feed - Auto-updates with your latest streams -->
 <div align="center">
@@ -148,24 +129,24 @@ const developer = {
 
 ---
 
-## 💡 Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-## 🔧 Currently Working On
+## Currently Working On
 
-- 🚀 Building full-stack applications with modern tech stacks
-- 🤖 Exploring AI/LLM integration patterns
-- 📚 Mastering backend architecture and system design
-- ⚡ Contributing to open-source projects
-- 🎮 Occasionally streaming the games i play to my 15 followers
+-  Building full-stack applications with modern tech stacks
+-  Exploring AI/LLM integration patterns
+-  Mastering backend architecture and system design
+-  Contributing to open-source projects
+-  Occasionally streaming the games i play to my 15 followers
 
 ---
 
-## 📫 Get In Touch
+##  Get In Touch
 
 <div align="center">
 
@@ -178,11 +159,11 @@ const developer = {
 
 <div align="center">
 
-### 💬 *"First, solve the problem. Then, write the code."*
+###  *"First, solve the problem. Then, write the code."*
 
 **Thanks for visiting! Feel free to explore my repositories and connect if you want to collaborate.** 🚀
 
-![Snake animation](https://raw.githubusercontent.com/vampirerwho/vampirerwho/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 <div align="center">
